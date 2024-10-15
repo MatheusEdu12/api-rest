@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/MatheusEdu12/api-rest/issues"
   },
-  "homepage": "https://github.com/MatheusEdu12/api-rest#readme"
+  "homepage": "https://github.com/MatheusEdu12/api-rest#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "helmet": "^8.0.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.7"
+  }
 }
